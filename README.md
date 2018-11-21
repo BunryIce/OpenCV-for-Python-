@@ -1,2 +1,2 @@
 # experiment-for-Python 
-# This is my first experiment in GitHub.
+This is my first experiment in GitHub.
