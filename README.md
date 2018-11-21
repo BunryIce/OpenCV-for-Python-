@@ -1,2 +1,2 @@
-# OpenCV-for-Python-
-Python2.7+OpenCV3
+# experiment-for-Python 
+# This is my first experiment in GitHub.
